@@ -1,6 +1,2 @@
-
-this is dev branch
-
-
-this is master branch
+这是branch1分支。
 
